@@ -1,12 +1,13 @@
-
-
 -- List
-
 arraylist 
 linkedlist
-
 shopping list
-
 to do list
 
+
+new things from github 
+
+add these list
+
+123
 
